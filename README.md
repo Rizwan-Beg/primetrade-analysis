@@ -27,7 +27,7 @@ performance on **Hyperliquid** — a decentralized perpetuals exchange.
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone Rizwan-Beg/primetrade-analysis
 cd primetrade-analysis
 
 # Install dependencies
